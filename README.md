@@ -24,3 +24,4 @@
   and return how many times it appears, then replace each instance with a new string the user provides. The new TXT is then displayed with the new string in place of the
   old.
 ## HW2:
+  This application is made through JavaFX and does the same function as HW1 just through a GUI. You're able to browse for the target file, get a word count, replace strings, search them, and visually see the first string found highlighted. Whenever you replace a string the new words will be displayed on the screen.
