@@ -17,8 +17,13 @@
   This is a re-working of Lab 3 but utilizing JavaFX to create a grid that the user can interact with. There are two buttons, one for implementing the CSV class and
   the other for the Regular class. When the button is clicked the rows, columns, or word count is provided in the results plane.
 ## Lab 6:
+  This lab was based around creating a calculator through JavaFX. It has input areas where the user can put in numerators and denomenators, then with these two fractions it adds them up, and prints their sum in their reduced-fraction form, and in decimal form. It handles division by zero also via the built in methods from Java Double Float, and the interactive buttons will clear or run the calaculations.
 ## Lab 7:
-
+  This lab takes a roster of students and then adds all inputs into an array list. From here the roster is sorted from the array into three different outputs, one filtered by First Name, one by Last Name, and one by their game score. The lesson learned here was not to simply move strings or floats into an array list but to utilize a comparator within the file so that the comparator can be called on for each method rather than three different comparisons being done on the same array list.
+## Lab 8:
+  In progress
+## Lab 9:
+  In progress
 ## HW1:
   The is a simple text editor application that will search through a provided TXT document, return how many words are in the file, search the file for a specific string
   and return how many times it appears, then replace each instance with a new string the user provides. The new TXT is then displayed with the new string in place of the
