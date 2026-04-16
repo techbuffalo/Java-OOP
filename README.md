@@ -30,3 +30,5 @@
   old.
 ## HW2:
   This application is made through JavaFX and does the same function as HW1 just through a GUI. You're able to browse for the target file, get a word count, replace strings, search them, and visually see the first string found highlighted. Whenever you replace a string the new words will be displayed on the screen.
+## HW3:
+  This application is through JavaFX and builds onto the other two HW files. It uses binding to dynamically update the text editor window. This means if the user were to use the Search method and find all the words 'start' and delete them. If they ran the word count method again it would return the current word count, rather than the original. In this assignment I also added a Save function for when the file is editied and a unique word count since in the previous versions 'the' and 'The' would both be registered as different words even though only their capitalization changes.
