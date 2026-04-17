@@ -21,7 +21,7 @@
 ## Lab 7:
   This lab takes a roster of students and then adds all inputs into an array list. From here the roster is sorted from the array into three different outputs, one filtered by First Name, one by Last Name, and one by their game score. The lesson learned here was not to simply move strings or floats into an array list but to utilize a comparator within the file so that the comparator can be called on for each method rather than three different comparisons being done on the same array list.
 ## Lab 8:
-  In progress
+  In this lab we practice maps and I use a file Dictionary.txt that contains words, some with multiple definitions and some with one. The program will take whatever the user inputs regardless of case and find the definitions that correlate and will then do three outputs. One is to return all the dfeinintions one line at a time, next creates a single map connection with the defenition from the word. Finally there is a mulitmap that adds each definition to an array and returns them all. Here I learned the computing value of multipmap for storing and displaing multiple values to one key!
 ## Lab 9:
   In progress
 ## HW1:
