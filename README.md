@@ -23,7 +23,7 @@
 ## Lab 8:
   In this lab we practice maps and I use a file Dictionary.txt that contains words, some with multiple definitions and some with one. The program will take whatever the user inputs regardless of case and find the definitions that correlate and will then do three outputs. One is to return all the dfeinintions one line at a time, next creates a single map connection with the defenition from the word. Finally there is a mulitmap that adds each definition to an array and returns them all. Here I learned the computing value of multipmap for storing and displaing multiple values to one key!
 ## Lab 9:
-  In progress
+  In this lab I implmeneted a comparator in LoanAccounts and then used LoanMaster to read in a CSV file that had four fields. Checking is done on the file to ensure there are four fields and that each has correct inputs such as numbers and no letters. Once done it will calculate the EMI for each valid account and sort them from low to high based on this EMI. The results are then put into an output CSV file.
 ## HW1:
   The is a simple text editor application that will search through a provided TXT document, return how many words are in the file, search the file for a specific string
   and return how many times it appears, then replace each instance with a new string the user provides. The new TXT is then displayed with the new string in place of the
